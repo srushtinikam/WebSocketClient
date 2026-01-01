@@ -1,0 +1,3 @@
+D:/WebSocketClient/build/CMakeFiles/ws_client.dir
+D:/WebSocketClient/build/CMakeFiles/ALL_BUILD.dir
+D:/WebSocketClient/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/WebSocketClient/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
